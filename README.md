@@ -37,7 +37,7 @@ Osdag project/
 
 ### Prerequisites
 ```bash
-pip install xarray netcdf4 matplotlib plotly numpy
+pip install -r requirements.txt
 ```
 
 ### Run Task 1 (2D Plots)
