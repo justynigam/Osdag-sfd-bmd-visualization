@@ -74,7 +74,7 @@ Licensed under Creative Commons Attribution-ShareAlike 4.0 International License
 
 ## 👤 Author
 
-[Your Name]
+Nigam Prasad Lenka
 
 ---
 *Osdag FOSSEE Screening Task Submission*
