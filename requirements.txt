@@ -1,0 +1,8 @@
+# Requirements for Osdag Screening Task
+# Install using: pip install -r requirements.txt
+
+xarray>=2023.1.0
+netcdf4>=1.6.0
+matplotlib>=3.7.0
+plotly>=5.15.0
+numpy>=1.24.0
