@@ -1,4 +1,4 @@
-# Osdag Screening Task - SFD & BMD Visualization
+# Osdag Screening Task - Sheer Force & Bending Moment Diagrams
 
 ## 📋 Project Overview
 
