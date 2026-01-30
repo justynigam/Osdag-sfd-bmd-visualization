@@ -1,8 +1,13 @@
+import os
 import xarray as xr
 import plotly.graph_objects as go
 import numpy as np
 from node import nodes
 from element import members
+
+
+# Create output directory if it doesn't exist
+os.makedirs('3d_view', exist_ok=True)  
 
 # --- CONFIGURATION ---
 SCALE_FACTOR = 0.5

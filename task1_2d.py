@@ -1,6 +1,10 @@
 import xarray as xr
 import matplotlib.pyplot as plt
 import numpy as np
+import os
+
+# Create output directory if it doesn't exist
+os.makedirs('2d_images', exist_ok=True)
 
 # STEP 1: LOAD THE DATA 
 ds = xr.open_dataset('screening_task.nc') 
